@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="first_author">Ian jones</string>
+    <string name="first_desc">Abstract painting characterized by a vibrant and dynamic composition</string>
+    <string name="first_date">2012</string>
+
+    <string name="second_author">Acrylic artwork</string>
+    <string name="second_desc">Oil painting with a serene and atmospheric quality</string>
+    <string name="second_date">2017</string>
+
+    <string name="third_author">Mario Nevado</string>
+    <string name="third_desc">Forgiveness Surreal</string>
+    <string name="third_date">2021</string>
+
+    <string name="four_author">Graffiti Art</string>
+    <string name="four_desc">Stencil painting</string>
+    <string name="four_date">2011</string>
+
+    <string name="five_author">Dream Art</string>
+    <string name="five_desc">Beautiful abstract painting with dynamic and static vibrant</string>
+    <string name="five_date">2001</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+
+</resources>
